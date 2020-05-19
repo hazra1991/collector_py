@@ -1,0 +1,6 @@
+#Uncomment and customize the env variable
+SOURCE_FILE_PATH=/root/PycharmProjects/collector/testfile.csv
+#ENGINE_FILE_PATH=
+ARCHIVE_FILE_DIR=/opt/sevone-uc/NagiosSecurityCollector/engineidarchive/
+SERVER_LIST_FILE_PATH=
+REMOTE_SERVER_DES_FILE_PATH=
